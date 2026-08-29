@@ -91,7 +91,7 @@ Exploratory Data Analysis
 Data Visualization
      ↓
 Business Insights
-
+```
 
 ### 🔥 One thing I'd change for your GitHub
 
@@ -100,12 +100,3 @@ Don't leave this:
 ```text
 git clone YOUR_REPOSITORY_URL
 
-## 📊 Visualizations
-
-### Customer Distribution by Age Group
-
-![Age Group Distribution](images/age_group.png)
-
-### Purchase Frequency Analysis
-
-![Purchase Frequency](images/purchase_frequency.png)
