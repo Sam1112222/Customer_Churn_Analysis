@@ -92,11 +92,14 @@ Data Visualization
      ↓
 Business Insights
 ```
+## 📊 Visualizations
 
-### 🔥 One thing I'd change for your GitHub
+### Customer Distribution by Age Group
 
-Don't leave this:
+![Age Group Distribution](images/age_group.png)
 
-```text
-git clone YOUR_REPOSITORY_URL
+### Purchase Frequency Analysis
+
+![Purchase Frequency](images/purchase_frequency.png)
+
 
